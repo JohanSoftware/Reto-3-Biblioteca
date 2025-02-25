@@ -45,7 +45,7 @@ Prestar un libro a un usuario, registrando la fecha del préstamo.
 
 Obtener todos los préstamos de un usuario específico.
 
-###🛠️ Tecnologías Utilizadas
+### 🛠️ Tecnologías Utilizadas
 
 `Java`: Lenguaje de programación principal.
 
